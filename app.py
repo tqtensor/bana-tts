@@ -1,7 +1,9 @@
 from main import generator, dct, hifigan, infer, output_sampling_rate
 from io import StringIO
 from flask import Flask, make_response, request
-import soundfile as sf
+import io
+from scipy.io.wavfile import write
+import base64
 import torch
 
 app = Flask(__name__)
@@ -9,7 +11,6 @@ app = Flask(__name__)
 @app.route('/speak', methods=['POST'])
 def speak():
 
-    buf = StringIO()
     data = request.get_json()
     input_text = data["text"]
 
@@ -19,12 +20,13 @@ def speak():
     with torch.no_grad():
         audio = hifigan.forward(y).cpu().squeeze().clamp(-1, 1)
 
-    sf.write(buf, audio, output_sampling_rate)
+    bytes_wav = bytes()
+    byte_io = io.BytesIO(bytes_wav)
+    write(byte_io, output_sampling_rate, audio)
+    wav_bytes = byte_io.read()
 
-    response = make_response(buf.getvalue())
-    buf.close()
+    audio_data = base64.b64encode(wav_bytes).decode('UTF-8')
 
-    response.headers['Content-Type'] = 'audio/wav'
-    response.headers['Content-Disposition'] = 'attachment; filename=sound.wav'
+    response = make_response({"speech": audio_data})
 
     return response
