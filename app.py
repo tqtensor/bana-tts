@@ -5,8 +5,10 @@ import io
 from scipy.io.wavfile import write
 import base64
 import torch
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/speak', methods=['POST'])
 def speak():
