@@ -58,7 +58,7 @@ def infer(text, generator, dct):
                                         stoc=False, spk=None,
                                         length_scale=0.91)
 
-    return y_dec
+    return y_dec.cpu().detach().numpy()
 
 generator, dct = load_acoustic_model('./logs/bahnar_exp/grad_1344.pt', './data/bahnar_lexicon.txt')
 hifigan = load_vocoder('./checkpts/hifigan.pt', './checkpts/hifigan-config.json')
