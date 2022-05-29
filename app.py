@@ -1,5 +1,5 @@
 from main import generator, dct, hifigan, infer, output_sampling_rate
-from cStringIO import StringIO
+from io import StringIO
 from flask import Flask, make_response, request
 import soundfile as sf
 import torch
