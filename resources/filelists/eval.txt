@@ -1,0 +1,40 @@
+data/internal/internal audio/5056.wav|lúc nào người nói cũng phải chú ý tới cảm xúc của người nghe khi người nghe muốn bạn nói tiếp thì dù bạn có nói nhiều một chút họ cũng không cảm thấy phiền
+data/internal/internal audio/7212.wav|chu cấp nuôi nấng cho đứa cháu ấy để nó nên người
+data/internal/internal audio/3446.wav|khéo léo nói về những vấn đề thường gặp tại chốn công sở
+data/internal/internal audio/7154.wav|tôi tưởng tượng khu đất mênh mông trên đó bộ đội đóng rải rác
+data/internal/internal audio/00859.wav|rồi sáng hôm sau tôi nhận được của ông một bức thư trả lời câu hỏi của tôi chăng
+data/internal/internal audio/2521.wav|thực ra làm vậy là bạn đã tự đào hố chôn mình
+data/internal/internal audio/00700.wav|đã đành cái gì ta thường xuyên để ý tới nhưng chỉ có một mình ta để ý tới nó
+data/internal/internal audio/02360.wav|một cách đối đãi như vậy làm cho người ta vui lòng tự sửa mình
+data/internal/internal audio/5629.wav|bạn cũng tuyệt đối không được làm tổn thương tới lòng tự tôn của đối phương đặc biệt là với những người đã từng giúp bạn
+data/internal/internal audio/6054.wav|cách thuyết phục này rất dễ được chấp nhận
+data/internal/internal audio/6994.wav|tôi không tin rằng trong 10 triệu người có tới một người bị chôn sống
+data/internal/internal audio/01894.wav|một hành vi nhân từ mà ta sẽ vui vẻ nhớ tới hoài
+data/internal/internal audio/1099.wav|bằng thực nghiệm các chuyên gia đã tổng kết và đưa ra những phương pháp hữu ích
+data/internal/internal audio/04947.wav|ông cố gắng nâng cao tinh thần cho họ
+data/internal/internal audio/5567.wav|trong trường hợp ngược lại thì sẽ là không thích hợp để trêu chọc nhau
+data/internal/internal audio/4351.wav|sau khi đưa ra một câu hỏi hãy im lặng và chờ đợi câu trả lời
+data/internal/internal audio/3625.wav|có rất nhiều người tham gia tất nhiên trong số đó có người thành công có người thất bại
+data/internal/internal audio/5170.wav|khi giới thiệu người khác nhất định phải tuân thủ quy tắc để không khiến họ rơi vào tình trạng bối rối hoặc gây ra hiểu lầm
+data/internal/internal audio/6951.wav|cho nên ông phải đợi tôi một giờ đồng hồ ở trong rừng
+data/internal/internal audio/05201.wav|thành công liên tiếp như vậy nào đâu phải chuyện rủi may
+data/infore/14316.wav|là điểm dừng chân được rất nhiều người lựa chọn bởi vẻ đẹp lộng lẫy luôn lấp lánh hàng ngàn loại đá quý
+data/infore/14336.wav|biệt thự nghỉ dưỡng ven hồ trung tâm tại dự án không chỉ là nơi an cư mà còn mang đến cơ hội
+data/infore/14381.wav|tuy nhiên đây cũng là trò chơi tiềm ẩn nhiều nguy hiểm
+data/infore/14386.wav|thật tiếc nếu người dùng không khám phá ra chức năng chụp hình vô cùng độc đáo này
+data/infore/14402.wav|toàn bộ khu vực đang xây dựng vừa xảy ra sự cố đã bị phong tỏa hoàn toàn
+data/infore/14424.wav|để có nguồn thu nhập đều nhà kinh doanh nên làm việc dựa vào khả năng phân tích có cơ sở
+data/infore/14432.wav|điều đặc biệt là cả chục cổng làng trên phố thụy khuê không cổng nào giống cổng nào từ kích thước đến kiến trúc
+data/infore/14457.wav|nhưng nó vô giá trị bởi người ta có thể dễ dàng dự đoán kết quả
+data/infore/14486.wav|du khách quốc tế thích ẩm thực đường phố hơn trong nhà hàng
+data/infore/14612.wav|tiếp đến ca khúc được đẩy lên tiết tấu nhanh sôi động hơn
+data/infore/14634.wav|trên màn hình cài đặt bạn kéo chuột xuống tìm phần tự động trả lời thư tích chọn vào nút bật tự động trả lời thư
+data/infore/14696.wav|việc này không những giúp tiết kiệm chi phí mà còn làm tăng hương vị phong phú cho thức ăn
+data/infore/14702.wav|làm các em luôn phải gồng mình và không dám đối diện với thất bại là điều cực kỳ nguy hiểm
+data/infore/14722.wav|thì vẫn có thể khắc dấu được tùy vào nhu cầu của mỗi cá nhân
+data/infore/14755.wav|và sẽ trở thành xu hướng tiêu dùng trên toàn thế giới
+data/infore/14768.wav|chuyển nhượng lô đất ở đồng cái hòm đông khê ngô quyền hải phòng
+data/infore/14637.wav|sử dụng vật liệu mềm có chứa một số hóa chất chuyên dụng để lau sạch bụi ống kính
+data/infore/14585.wav|có rất nhiều điều mà chúng ta không ngờ tới những giấc mơ xuất hiện sau mỗi giấc ngủ cũng vậy
+data/infore/14554.wav|với người yêu điện ảnh việc phó mặc cho công nghệ kỹ xảo đang dần giết chết sự sáng tạo của giới làm phim và khả năng hóa thân của diễn viên
+data/infore/14547.wav|một số loại thực phẩm này bao gồm rau xanh rau lá trái cây có múi đậu và ngũ cốc nguyên hạt
