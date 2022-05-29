@@ -22,7 +22,7 @@ def speak():
     with torch.no_grad():
         audio = hifigan.forward(y).cpu().squeeze().clamp(-1, 1).detach().numpy()
 
-    audio = audio * 2
+    audio = audio * 4
     bytes_wav = bytes()
     byte_io = io.BytesIO(bytes_wav)
     write(byte_io, output_sampling_rate, audio)
