@@ -18,7 +18,7 @@ def speak():
     y = infer(input_text, generator, dct)
 
     with torch.no_grad():
-        audio = hifigan.forward(y).cpu().squeeze().clamp(-1, 1)
+        audio = hifigan.forward(y).cpu().squeeze().clamp(-1, 1).detach().numpy()
 
     bytes_wav = bytes()
     byte_io = io.BytesIO(bytes_wav)
