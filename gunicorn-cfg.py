@@ -2,8 +2,8 @@
 
 import os
 
-bind = '0.0.0.0:10011'
-workers = os.cpu_count()
+bind = '0.0.0.0:8081'
+workers = 1
 accesslog = '-'
 loglevel = 'debug'
 capture_output = True
