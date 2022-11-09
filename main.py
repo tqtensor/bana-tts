@@ -23,6 +23,11 @@ sys.path.append('./hifi-gan/')
 from env import AttrDict
 from models import Generator as HiFiGAN
 
+print("GPU", torch.cuda.is_available())
+if torch.cuda.is_available():
+    device = "cuda:0"
+else:
+    device = "cpu"
 
 def load_acoustic_model(chkpt_path, lex_path):
     generator = GradTTS(len(symbols)+1, 1, params.spk_emb_dim,
@@ -30,7 +35,7 @@ def load_acoustic_model(chkpt_path, lex_path):
                     params.filter_channels_dp, params.n_heads, params.n_enc_layers,
                     params.enc_kernel, params.enc_dropout, params.window_size,
                     params.n_feats, params.dec_dim, params.beta_min, params.beta_max,
-                    pe_scale=1000).to("cuda:0")
+                    pe_scale=1000).to(device)
     generator.load_state_dict(torch.load(chkpt_path, map_location=lambda loc, storage: loc))
     _ = generator.eval()
     print(f'Number of parameters: {generator.nparams}')
@@ -42,7 +47,7 @@ def load_acoustic_model(chkpt_path, lex_path):
 def load_vocoder(chkpt_path, config_path):
     with open(config_path) as f:
         h = AttrDict(json.load(f))
-    hifigan = HiFiGAN(h).to("cuda:0")
+    hifigan = HiFiGAN(h).to(device)
     hifigan.load_state_dict(torch.load(chkpt_path, map_location=lambda loc, storage: loc)['generator'])
     _ = hifigan.eval()
     hifigan.remove_weight_norm()
@@ -51,8 +56,8 @@ def load_vocoder(chkpt_path, config_path):
 
 
 def infer(text, generator, dct):
-    x = torch.LongTensor(intersperse(text_to_sequence(text, dictionary=dct), len(symbols))).to("cuda:0")[None]
-    x_lengths = torch.LongTensor([x.shape[-1]]).to("cuda:0")
+    x = torch.LongTensor(intersperse(text_to_sequence(text, dictionary=dct), len(symbols))).to(device)[None]
+    x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
 
     _, y_dec, _ = generator.forward(x, x_lengths, n_timesteps=50, temperature=1.3,
                                         stoc=False, spk=None,
