@@ -8,12 +8,11 @@
 
 from model.utils import fix_len_compatibility
 
-
 # data parameters
-train_filelist_path = 'resources/filelists/bahnar/train.txt'
-valid_filelist_path = 'resources/filelists/bahnar/valid.txt'
-test_filelist_path = 'resources/filelists/bahnar/test.txt'
-bndict_path = 'data/bahnar_lexicon.txt'
+train_filelist_path = "resources/filelists/bahnar/train.txt"
+valid_filelist_path = "resources/filelists/bahnar/valid.txt"
+test_filelist_path = "resources/filelists/bahnar/test.txt"
+bndict_path = "data/bahnar_lexicon.txt"
 add_blank = True
 n_feats = 80
 n_spks = 1  # 247 for Libri-TTS filelist and 1 for LJSpeech
@@ -43,15 +42,15 @@ beta_max = 20.0
 pe_scale = 1000  # 1 for `grad-tts-old.pt` checkpoint
 
 # training parameters
-log_dir = 'logs/bahnar_exp'
+log_dir = "logs/bahnar_exp"
 test_size = 4
 n_epochs = 10000
 batch_size = 16
 learning_rate = 1e-4
 seed = 37
 save_every = 1
-out_size = fix_len_compatibility(2*22050//256)
+out_size = fix_len_compatibility(2 * 22050 // 256)
 
 
 curr_chkpt = 604
-chkpt_path = f'./logs/bahnar_exp/grad_{curr_chkpt}.pt'
+chkpt_path = f"./logs/bahnar_exp/grad_{curr_chkpt}.pt"

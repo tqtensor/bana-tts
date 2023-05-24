@@ -34,7 +34,7 @@ data/internal/internal audio/00105.wav|có đầu được cả thế giới tr�
 data/internal/internal audio/03621.wav|2 trong khi thu thập những sự kiện về một vấn đề rắc rối thỉnh thoảng tôi giả vờ như một luật sư bênh vực cho quan điểm ngược với quan điểm của tôi
 data/internal/internal audio/4461.wav|vậy là cả 2 phía đều không đạt được mục đích
 data/internal/internal audio/03774.wav|có lần tôi hỏi ông qua vlift một người quan trọng nhất trong công nghệ xăng dầu
-data/internal/internal audio/0121.wav|hillary đã không những hoàn thành yêu cầu đọc sách mà còn tích cực suy nghĩ nêu ra những vấn đề mình không hiểu để thảo luận cùng các thầy 
+data/internal/internal audio/0121.wav|hillary đã không những hoàn thành yêu cầu đọc sách mà còn tích cực suy nghĩ nêu ra những vấn đề mình không hiểu để thảo luận cùng các thầy
 data/internal/internal audio/5544.wav|vì thế khi sử dụng hình thức đấu khẩu nhất định phải xác định rõ vị trí của mình thì mới có thể đạt hiệu quả
 data/internal/internal audio/03394.wav|mà đọc tiểu thuyết của các đại văn hào trên thế giới nhiều khi chúng ta cũng được hưởng cái vui như vậy
 data/internal/internal audio/7866.wav|từ lâu tôi vẫn kính phục một người đã quá cố là ông fred fuller sales

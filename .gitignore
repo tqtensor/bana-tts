@@ -1,5 +1,14 @@
+# Ignore Python bytecode cache
 __pycache__
+
+# Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Ignore Visual Studio Code configuration files
 .vscode
+
+# Ignore PyTorch model files
 *.pt
+
+# Ignore macOS specific metadata files
 .DS_Store

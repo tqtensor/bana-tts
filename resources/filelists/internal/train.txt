@@ -2812,7 +2812,7 @@ data/internal/internal audio/6266.wav|sau những chuyện này lên con đã tr
 data/internal/internal audio/04845.wav|hoặc nhận tình thế đó mà tự thay đổi cách sống cho thích hợp
 data/internal/internal audio/05294.wav|khi sullivans đã soạn xong điệu nhạc cho một tác phẩm mới thì tự chép lại gửi cho gilbert
 data/internal/internal audio/6921.wav|các nhà báo ở đô thị lớn đổ xô về veerman
-data/internal/internal audio/0087.wav|nói chuyện là để người khác hiểu về bạn từ đó giành được sự tin tưởng từ họ 
+data/internal/internal audio/0087.wav|nói chuyện là để người khác hiểu về bạn từ đó giành được sự tin tưởng từ họ
 data/internal/internal audio/1980.wav|mọi người nghe xong câu chuyện của trương đại thiên đều không nói được lời nào
 data/internal/internal audio/0067.wav|từ đó có thể dễ dàng nhận được sự tín nhiệm và hỗ trợ từ người khác
 data/internal/internal audio/4401.wav|6 0 nên đồng ý với ý kiến phản đối của khách hàng điều này sẽ tăng cường lập trường của đối phương
@@ -2855,7 +2855,7 @@ data/internal/internal audio/7058.wav|tôi lái rất chậm
 data/internal/internal audio/03770.wav|đừng do dự lo lắng hoặc đi ngược trở lại
 data/internal/internal audio/4241.wav|khi tới chơi nhà bạn bè nhìn thấy trên tường phòng khách có một bức tranh phong thủy chúng ta nên khen
 data/internal/internal audio/1353.wav|điều tôi vừa nói được giải thích như sau
-data/internal/internal audio/0085.wav|nói chuyện cũng giống như các tài năng khác cũng cần không ngừng học tập tích lũy kiến thức 
+data/internal/internal audio/0085.wav|nói chuyện cũng giống như các tài năng khác cũng cần không ngừng học tập tích lũy kiến thức
 data/internal/internal audio/7948.wav|vậy chúng ta nên nhớ quy tắc thứ 7 này
 data/internal/internal audio/7084.wav|sau lại hỏi sở y tế thì biết rằng từ trước tới nay ở california
 data/internal/internal audio/01467.wav|ông tìm cách biết rõ về gia đình nghề nghiệp màu sắc chính trị người đó
@@ -2997,7 +2997,7 @@ data/internal/internal audio/6115.wav|do đó việc thuyết phục bằng lờ
 data/internal/internal audio/00184.wav|và hễ được lòng mọi người thì người trong 4 bể sẽ là bạn của ta giúp ta ta sẽ thành công và tìm được hạnh phúc
 data/internal/internal audio/03090.wav|con còn theo bác sĩ post
 data/internal/internal audio/1194.wav|và hội đàm với tổng thống nước chủ nhà
-data/internal/internal audio/0101.wav|khi xã hội phát triển môi trường thay đổi nội dung trong các cuộc trò chuyện của mọi người cũng có những sự đổi thay 
+data/internal/internal audio/0101.wav|khi xã hội phát triển môi trường thay đổi nội dung trong các cuộc trò chuyện của mọi người cũng có những sự đổi thay
 data/internal/internal audio/3525.wav|bạn thường cảm thấy chán nản bực bội
 data/internal/internal audio/6298.wav|bạn phải học cách nhẫn nại bởi vì sự nhẫn nại sẽ tránh được rất nhiều việc không vui
 data/internal/internal audio/4536.wav|ví dụ anh làm vậy sẽ đi vào ngõ cụt
@@ -3977,7 +3977,7 @@ data/internal/internal audio/2693.wav|thứ nhất là cấp trên của ngườ
 data/internal/internal audio/0022.wav|có những nhân viên tiếp thị khi gặp khách hàng thì giống như một cái máy nói không ngừng nghỉ không để ý tới phản ứng và cảm nhận của khách hàng
 data/internal/internal audio/00282.wav|mà người đó đâu phải là một anh chàng ngây thơ ông ta làm chủ một cửa hàng bán mỹ phẩm
 data/internal/internal audio/2532.wav|5 0 nên nói bạn ghét môn toán hoặc môn vật lý thế nào
-data/internal/internal audio/0051.wav|người trung quốc xưa có câu nhất ngôn dĩ hưng bang nhất ngôn dĩ diệt quốc 
+data/internal/internal audio/0051.wav|người trung quốc xưa có câu nhất ngôn dĩ hưng bang nhất ngôn dĩ diệt quốc
 data/internal/internal audio/1923.wav|tại một bữa tiệc khi nói về vấn đề công việc của nhân viên cấp dưới giám đốc một công ty nọ đã kể câu chuyện cười
 data/internal/internal audio/05410.wav|cam đoan những vết chân đó có từ 180000005 nay
 data/internal/internal audio/7378.wav|bà sarah 3 h cho ta một chứng cứ có giá trị rằng
@@ -4293,7 +4293,7 @@ data/internal/internal audio/2888.wav|làm vậy thứ bạn đổi lại đư�
 data/internal/internal audio/5285.wav|mặc dù rất đơn giản nhưng đã thể hiện được thành ý của chúng tôi
 data/internal/internal audio/04110.wav|tôi quá bận không có thời gian để lo chi hết
 data/internal/internal audio/00174.wav|đành phải học trong những sách viết bằng ngoại ngữ
-data/internal/internal audio/0132.wav|trong cuộc sống hằng ngày bạn cũng có thể tự tìm kiếm cơ hội được nói chuyện 
+data/internal/internal audio/0132.wav|trong cuộc sống hằng ngày bạn cũng có thể tự tìm kiếm cơ hội được nói chuyện
 data/internal/internal audio/7288.wav|nhưng khi cái đốm lớn nhất vừa qua khỏi
 data/internal/internal audio/1856.wav|đây là galaxy những hành khách xuống tàu chú ý không để quên hành lý
 data/internal/internal audio/4460.wav|đợi khi bên mua nói thời gian không còn sớm nữa ngày mai bàn tiếp
@@ -4343,7 +4343,7 @@ data/internal/internal audio/6324.wav|ngày hôm sau khi đã tỉnh rượu ho�
 data/internal/internal audio/0896.wav|vị chuyên gia này vốn không quan tâm tới những vấn đề bên ngoài lĩnh vực chuyên môn của ông nên tỏ ra rất bối rối
 data/internal/internal audio/03280.wav|nghĩa là có cái gì hay khéo thì đừng trang lấy làm của mình
 data/internal/internal audio/3189.wav|khi bạn đi quen hoặc nảy sinh tư tưởng tiêu cực
-data/internal/internal audio/0118.wav|sau mỗi buổi học hillary thường tới văn phòng giáo viên để học hỏi thêm 
+data/internal/internal audio/0118.wav|sau mỗi buổi học hillary thường tới văn phòng giáo viên để học hỏi thêm
 data/internal/internal audio/04584.wav|danso khoét hết lớp vỏ rồi mỗi ngày nhận một chút liên tiếp không ngừng
 data/internal/internal audio/5636.wav|khi từ chối đặc biệt là trong hoạt động kinh doanh hãy để đối phương hiểu rằng
 data/internal/internal audio/03315.wav|lão thần có bệnh ở chân nên không bước nhanh được
@@ -4846,7 +4846,7 @@ data/internal/internal audio/6527.wav|đối với những người nhiều tu�
 data/internal/internal audio/1007.wav|tại buổi tiệc ông đã gặp một chuyên gia thực vật học nổi tiếng hennigi trước đây rất ít khi giao tiếp với người này
 data/internal/internal audio/7534.wav|nhưng tôi có thể cho bạn biết một mánh lới rất kỳ diệu
 data/internal/internal audio/5444.wav|có rất nhiều cách thể hiện tình yêu mang đã sử dụng công cụ là chiếc gương để nói lên tấm lòng của mình
-data/internal/internal audio/0035.wav|chỉ cần những quy tắc và phương pháp cuốn sách đưa ra giúp được nhiều người thì giá trị của nó là vô hạn 
+data/internal/internal audio/0035.wav|chỉ cần những quy tắc và phương pháp cuốn sách đưa ra giúp được nhiều người thì giá trị của nó là vô hạn
 data/internal/internal audio/00232.wav|ta nhận thấy ông không phải là người có bằng cấp cao
 data/internal/internal audio/6312.wav|thực ra thì sự việc cũng không quá nghiêm trọng hay là thế này chỉ cần anh cho chó chạy chơi ở chỗ vắng người ở nơi tôi không trông thấy là được
 data/internal/internal audio/00049.wav|how to win friends and influence people
@@ -6468,7 +6468,7 @@ data/internal/internal audio/02325.wav|rằng anh thắng được quân bơ ở
 data/internal/internal audio/3306.wav|sáng ngày hôm sau hòa của yến giả vờ gọi điện thoại cho cấp dưới để nói về đề tài phỏng vấn
 data/internal/internal audio/6166.wav|đe dọa cũng là một kỹ năng thường được dùng trong thuyết phục nhưng dùng kỹ năng này là phải linh hoạt
 data/internal/internal audio/2119.wav|trong trường hợp này khi đối mặt với câu hỏi thiếu thiện ý của phóng viên người phụ nữ trung quốc đã khéo léo trả lời một cách hài hước
-data/internal/internal audio/0135.wav|thật bất ngờ là những ý kiến của ông luôn được mọi người đón nhận 
+data/internal/internal audio/0135.wav|thật bất ngờ là những ý kiến của ông luôn được mọi người đón nhận
 data/internal/internal audio/02601.wav|ông ấy đã viết báo 15 5 ở rees và biết rất nhiều chuyện thú vị
 data/internal/internal audio/01438.wav|nhưng nếu ta dùng nó một cách hào phóng thì giá trị nó vô cùng
 data/internal/internal audio/00640.wav|một nữ ký giả của một tuần báo mỹ bàn về họ nói rằng
@@ -7915,7 +7915,7 @@ data/internal/internal audio/03014.wav|đàn bà trong ngày sinh nhật và nh�
 data/internal/internal audio/4354.wav|như vậy trách nhiệm phá vở sự im lặng giữa 2 bên sẽ do người đối diện đảm nhiệm
 data/internal/internal audio/04982.wav|hoặc vì con bò được bạn trăm 5 của nó o bế một con bò cái khác
 data/internal/internal audio/3661.wav|hành động nhanh nhẹn cùng ngôn ngữ thân thiện đã khiến khách hàng cảm thấy cô đang nghĩ cho họ
-data/internal/internal audio/0058.wav|từ đó có thể thấy tài ăn nói cho dù ở thời đại nào và ở đâu cũng đều là một nhân tố quan trọng mà tất cả các nhân tài ưu tú cần phải có 
+data/internal/internal audio/0058.wav|từ đó có thể thấy tài ăn nói cho dù ở thời đại nào và ở đâu cũng đều là một nhân tố quan trọng mà tất cả các nhân tài ưu tú cần phải có
 data/internal/internal audio/0676.wav|tốt nhất nên để cho bên thứ 3 người giới thiệu mở lời
 data/internal/internal audio/5240.wav|như vậy bạn có thể không phải uống mà không làm mất lòng người mời
 data/internal/internal audio/4767.wav|trong công việc hoặc trong một số hoạt động diễn thuyết chính là cơ hội thể hiện năng lực của một người
@@ -8510,7 +8510,7 @@ data/internal/internal audio/03040.wav|chương 6
 data/internal/internal audio/01789.wav|hồi đó tôi mê chơi tàu lắm và ông nói về tàu một cách làm cho tôi thích đặc biệt
 data/internal/internal audio/05635.wav|một lần đi ngang qua một con đường đông nghẹt xe cộ ở new york
 data/internal/internal audio/00945.wav|cần có một đức tính cốt yếu quan trọng hơn cả các định lệ và quy tắc
-data/internal/internal audio/00795.wav|ông muốn ông muốn  
+data/internal/internal audio/00795.wav|ông muốn ông muốn
 data/internal/internal audio/00093.wav|vì vậy ta thường thấy những người có bằng cấp rất thấp mà sự sự khéo hơn thành công hơn những người có bằng cấp cao
 data/internal/internal audio/7140.wav|khi nằm xuống và cố ngủ thì tôi có cảm tưởng như nằm trong mộ
 data/internal/internal audio/02769.wav|thì đây là một trong 3 chương được bổ sung thêm của phiên bản đắc nhân tâm này
@@ -8635,7 +8635,7 @@ data/internal/internal audio/1757.wav|hài hước là một cách thể hiện 
 data/internal/internal audio/01988.wav|nếu bạn muốn được lòng người đó hãy khéo léo chứng tỏ cho họ thấy rằng ta thành thật công nhận sự quan trọng của họ trong địa vị của họ
 data/internal/internal audio/6133.wav|và điều quan trọng là chấp nhận một cách tâm phục khẩu phục
 data/internal/internal audio/00053.wav|để có được những giá trị ấy không chỉ bởi nguyễn hiến lê đã tiếp xúc với tác giả truyền tải được đúng linh hồn của bản gốc
-data/internal/internal audio/0133.wav|sam levenson không chỉ là một ngôi sao truyền hình mà còn là một nhà diễn thuyết danh tiếng có tầm ảnh hưởng tại mỹ 
+data/internal/internal audio/0133.wav|sam levenson không chỉ là một ngôi sao truyền hình mà còn là một nhà diễn thuyết danh tiếng có tầm ảnh hưởng tại mỹ
 data/internal/internal audio/05017.wav|không bao giờ tôi lo lắng về tương lai vì tôi hiểu không một ai có thể tưởng tượng được tương lai sẽ ra sao
 data/internal/internal audio/5623.wav|vì vậy chúng ta phải học kỹ năng từ chối để không làm mất lòng mọi người
 data/internal/internal audio/4195.wav|tấm ảnh này được chụp trên chuyến tàu đó bố tôi luôn cất giữ tấm ảnh như một báu vật quý giá

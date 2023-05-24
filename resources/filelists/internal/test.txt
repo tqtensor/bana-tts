@@ -322,7 +322,7 @@ data/internal/internal audio/03398.wav|khi dịch chiến tranh và hòa bình c
 data/internal/internal audio/05475.wav|bây giờ các trò có dằn vặt và bứt tóc
 data/internal/internal audio/01619.wav|đó chỉ vì vậy mà ông khen tôi là nói chuyện khôn khéo
 data/internal/internal audio/01577.wav|mới rồi sau một tiệc rượu chủ nhà mời tôi đánh bài
-data/internal/internal audio/0109.wav|từ đó hillary đã trở thành người hâm mộ của martin bà cũng đã nhận ra ý nghĩa vô cùng to lớn của công việc diễn thuyết 
+data/internal/internal audio/0109.wav|từ đó hillary đã trở thành người hâm mộ của martin bà cũng đã nhận ra ý nghĩa vô cùng to lớn của công việc diễn thuyết
 data/internal/internal audio/1991.wav|theo sách tướng số nhân trung càng dài thì tuổi thọ càng dài
 data/internal/internal audio/4306.wav|khi trò chuyện hàn huyên nhất định phải nhớ một điểm không nói về đề tài gây thất vọng
 data/internal/internal audio/05594.wav|quẳng gánh lo và vui sống
