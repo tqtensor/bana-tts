@@ -8,8 +8,8 @@ import torch
 
 # For Grad-TTS
 import TTS.params as params
-from scipy.io.wavfile import write
 from TTS.model import GradTTS
+from TTS.praat_utils import change_gender
 from TTS.text import bndict, text_to_sequence
 from TTS.text.symbols import symbols
 from TTS.utils import intersperse
@@ -107,4 +107,5 @@ if __name__ == "__main__":
     with torch.no_grad():
         audio = hifigan.forward(y).cpu().squeeze().clamp(-1, 1)
 
+    audio = change_gender(audio, output_sampling_rate, 75, 600, 1.1, 0.0, 1.0, 1.0)
     sf.write(output_path, audio, output_sampling_rate)
